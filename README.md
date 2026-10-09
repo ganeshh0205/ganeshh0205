@@ -207,14 +207,24 @@ Developing interactive learning experiences that combine visualization, simulati
 
 <div align="center">
 
-### Overall Statistics
+### Overall Statistics & Rank
 
 <a href="https://github.com/ganeshh0205">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=ganeshh0205&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github" alt="GitHub profile statistics"/>
+  <img height="200" src="https://github-readme-stats.vercel.app/api?username=ganeshh0205&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=tokyonight&rank_icon=percentile&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" alt="GitHub statistics and percentile rank"/>
 </a>
 
 <a href="https://github.com/ganeshh0205">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ganeshh0205&layout=donut&langs_count=8&hide_border=true&theme=tokyonight" alt="Most used languages"/>
+  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ganeshh0205&layout=donut&langs_count=8&hide_border=true&theme=tokyonight" alt="Most used languages"/>
+</a>
+
+### Commit Activity
+
+<a href="https://github.com/ganeshh0205">
+  <img src="https://img.shields.io/github/commit-activity/t/ganeshh0205?style=for-the-badge&label=COMMITS%20PER%20YEAR&color=2563eb" alt="Total yearly commit activity"/>
+</a>
+
+<a href="https://github.com/ganeshh0205">
+  <img src="https://img.shields.io/github/commit-activity/m/ganeshh0205?style=for-the-badge&label=COMMITS%20THIS%20MONTH&color=0F766E" alt="Monthly commit activity"/>
 </a>
 
 ### Contribution Streak
@@ -229,7 +239,11 @@ Developing interactive learning experiences that combine visualization, simulati
   <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=ganeshh0205&theme=tokyo-night&hide_border=true&area=true" alt="GitHub contribution activity graph"/>
 </a>
 
+### GitHub Trophies
 
+<a href="https://github.com/ganeshh0205">
+  <img width="95%" src="https://github-profile-trophy.vercel.app/?username=ganeshh0205&theme=algolia&no-frame=true&no-bg=true&column=4&margin-w=10" alt="GitHub profile trophies"/>
+</a>
 
 </div>
 
@@ -237,12 +251,14 @@ Developing interactive learning experiences that combine visualization, simulati
 <summary><strong>📌 Understanding these statistics</strong></summary>
 
 - **Profile statistics:** Selected repository and contribution metrics.
+- **Rank:** A calculated profile score based on the stats service's ranking criteria, not an academic grade.
 - **Language distribution:** Languages detected in eligible repositories; not a measure of proficiency.
+- **Commit activity:** Yearly and monthly commit activity, not a lifetime total.
 - **Contribution streak:** Activity recognized by the streak service.
 - **Activity graph:** Recorded contribution activity over time.
 - **Trophies:** Achievements recognized by the trophy service.
 
-These third-party widgets can have caching delays, counting differences, or occasional outages.
+Third-party widgets can have caching delays, counting differences, or occasional outages. Private contributions may not be reflected consistently across services.
 
 </details>
 
