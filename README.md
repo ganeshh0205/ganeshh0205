@@ -47,7 +47,7 @@ Contributing to an environmental analytics and compliance platform for an intern
 
 **Focus:** Data engineering, analytics automation, and reliable information retrieval.
 
-[View project repository](YOUR_ENVIRONMENTAL_PROJECT_REPO_URL)
+[View project repository](https://github.com/ganeshh0205/EHSToolkit)
 
 ### 2. CarbonWise — Carbon Footprint Analytics Platform
 **Flutter · Dart · Firebase · Pandas · Google ML Kit · Gemini AI**
@@ -62,7 +62,7 @@ Developed a platform to estimate individual carbon footprints from lifestyle act
 
 **Focus:** Sustainability analytics, mobile application development, and data processing.
 
-[View project repository](YOUR_CARBONWISE_REPO_URL)
+[View project repository](https://github.com/ganeshh0205/carbonwise_app_v1)
 
 ### 3. Fabricated Job Forecast Detection System
 **Python · Pandas · NumPy · Scikit-learn · Django · MySQL**
@@ -108,7 +108,7 @@ Developed an interactive engineering education platform as part of EDUAITHON, an
 
 **Focus:** 3D visualization, interactive simulation, and engineering education.
 
-[View project repository](YOUR_PROPULSION_PROJECT_REPO_URL)
+[View project repository](https://github.com/ganeshh0205/enginesimulatorv2)
 
 ---
 
