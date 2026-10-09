@@ -1,23 +1,23 @@
 
-<!-- ===================== HEADER ===================== -->
-
 <div align="center">
 
-# Maheedhar Ganesh Chillakanti
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=23&duration=3000&pause=900&color=60A5FA&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Maheedhar+Ganesh+Chillakanti;Software+Developer+%7C+Data+Analytics;Building+systems+that+solve+real+problems" alt="Animated introduction"/>
 
 ### Software Developer · Data Analytics · Python & SQL
 
 *Building practical software and transforming data into useful insights.*
 
 <a href="https://github.com/ganeshh0205">
-  <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github" alt="GitHub Profile"/>
+  <img src="https://img.shields.io/badge/GitHub-Explore_My_Work-181717?style=for-the-badge&logo=github" alt="GitHub"/>
 </a>
 <a href="https://www.linkedin.com/in/ganesh-maheedhar/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
+  <img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
 </a>
 <a href="https://propulsion-engine.vercel.app/">
-  <img src="https://img.shields.io/badge/Live_Demo-Propulsion_Simulator-0F766E?style=for-the-badge&logo=vercel" alt="Live Demo"/>
+  <img src="https://img.shields.io/badge/Live_Demo-Engine_Simulator-0F766E?style=for-the-badge&logo=vercel" alt="Live demo"/>
 </a>
+
+<img src="https://komarev.com/ghpvc/?username=ganeshh0205&style=flat-square&color=2563eb&label=PROFILE+VISITS" alt="Profile visits"/>
 
 </div>
 
@@ -25,228 +25,294 @@
 
 ## 👨‍💻 About Me
 
-I'm a Computer Science and Engineering graduate specializing in Data Science, interested in building end-to-end applications, analytical systems, and interactive experiences.
+I'm a Computer Science and Engineering graduate specializing in Data Science, interested in building practical software applications, analytical systems, and interactive engineering experiences.
 
-I enjoy connecting the different parts of a solution—from data processing and machine learning to backend APIs, databases, and user-facing applications.
+I enjoy understanding how different components work together—from data processing and machine learning to backend services, databases, and user-facing applications.
 
 - 🔍 **Interests:** Software Engineering, Data Analytics, Data Science
 - 🐍 **Core language:** Python
 - 📊 **Data:** SQL, Pandas, NumPy, Excel, Power BI, Tableau
 - ⚙️ **Development:** Django, Flask, FastAPI, REST APIs
 - 🧠 **Machine Learning:** Scikit-learn, TensorFlow, computer vision
-- 🌱 **Currently improving:** Software design, database fundamentals, and end-to-end development
+- 🌱 **Current focus:** Software design, database fundamentals, and end-to-end development
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Project Hub
 
-<details open>
-<summary><strong>🌍 Environmental Data Processing Pipeline — EHS Toolkit</strong></summary>
-
-<br/>
-
-An environmental analytics and compliance platform developed as part of an international client project.
-
-**What it does**
-- Processes environmental data from CSV, Excel, and PDF files.
-- Supports data cleaning, transformation, filtering, and structured outputs.
-- Develops KPI-driven workflows for environmental monitoring and analysis.
-- Prepares dashboard-ready data and supports automated reporting.
-- Contributes to source-based regulatory information retrieval.
-
-**Tech focus:** Python · Pandas · NumPy · SQL · Data Pipelines · REST APIs · Tableau
-
-<a href="https://github.com/ganeshh0205/EHSToolkit">
-  <img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github" alt="View EHS Toolkit repository"/>
-</a>
-
-</details>
-
-<details open>
-<summary><strong>✈️ Interactive Propulsion Engine Learning & Simulation Platform</strong></summary>
-
-<br/>
-
-An interactive engineering education platform built for EDUAITHON during the IUCEE Annual Student Forum.
-
-**Explore the platform**
-- 📚 Academy: visual learning modules for propulsion engine concepts.
-- 🌬️ Particle Journey: animated airflow through engine stages.
-- 🧪 Simulation Lab: interactive 3D engine simulation.
-- 🎛️ Adjustable parameters: altitude, throttle, Mach number, inlet conditions, and nozzle area.
-- 📈 Dynamic outputs: thrust, RPM, fuel flow, exhaust gas temperature, and jet velocity.
-- 🎙️ Additional interactions: engine controls, component exploration, and voice-command-based interaction.
-
-**Tech focus:** JavaScript · Three.js · Capacitor.js · 3D Visualization · Simulation
-
-<a href="https://propulsion-engine.vercel.app/">
-  <img src="https://img.shields.io/badge/Launch_Live_Demo-0F766E?style=for-the-badge&logo=vercel" alt="Launch propulsion engine demo"/>
-</a>
-<a href="https://github.com/ganeshh0205/engine-simulator">
-  <img src="https://img.shields.io/badge/View_Source_Code-181717?style=for-the-badge&logo=github" alt="View engine simulator source"/>
-</a>
-
-</details>
-
-<details open>
-<summary><strong>🌱 CarbonWise — Carbon Footprint Analytics Platform</strong></summary>
-
-<br/>
-
-A mobile analytics platform designed to estimate personal carbon emissions and make lifestyle-related environmental impact easier to understand.
-
-**Key features**
-- Calculates individual carbon emissions using standardized emission factors.
-- Implements rule-based calculations for consistent carbon estimates.
-- Analyzes activity data to identify emission trends across categories.
-- Integrates OCR-based transaction extraction using Google ML Kit.
-- Presents carbon impact insights to support user awareness.
-
-**Tech focus:** Flutter · Dart · Firebase · Pandas · Google ML Kit · Google Gemini AI
-
-<a href="https://github.com/ganeshh0205/carbonwise_app_v1">
-  <img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github" alt="View CarbonWise repository"/>
-</a>
-
-</details>
-
-<details>
-<summary><strong>🕵️ Fraudulent Job Posting Detection System</strong></summary>
-
-<br/>
-
-A machine learning project that analyzes recruitment listings to identify potentially fraudulent job postings.
-
-- Analyzed **17,000+ job postings**.
-- Engineered textual and metadata features.
-- Trained Logistic Regression and Random Forest classifiers.
-- Achieved **90% classification accuracy**.
-- Integrated the classification workflow into a Django application with MySQL.
-
-**Tech focus:** Python · Pandas · NumPy · Scikit-learn · Django · MySQL
-
-*Repository link to be added.*
-
-</details>
-
-<details>
-<summary><strong>🎥 Real-Time Anomalous Activity Detection System</strong></summary>
-
-<br/>
-
-A deep learning project for detecting anomalous activities in surveillance videos.
-
-- Processed a **12 GB UCF-Crime dataset**.
-- Used DenseNet121 transfer learning with TensorFlow.
-- Worked with **14 anomalous activity categories**.
-- Achieved a **0.83 ROC-AUC score**.
-- Developed a Flask backend with MySQL for recording detection results.
-
-**Tech focus:** Python · TensorFlow · DenseNet121 · OpenCV · Flask · MySQL
-
-*Repository link to be added.*
-
-</details>
-
----
-
-## 🧰 Tech Stack
-
-<div align="center">
-
-**Languages**
-
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
-<img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="SQL"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/>
-<img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" alt="Dart"/>
-
-**Data & Machine Learning**
-
-<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas"/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy"/>
-<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" alt="Scikit-learn"/>
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
-<img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" alt="Power BI"/>
-<img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white" alt="Tableau"/>
-
-**Backend & Application Development**
-
-<img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" alt="Django"/>
-<img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" alt="Flask"/>
-<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI"/>
-<img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter"/>
-<img src="https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=threedotjs&logoColor=white" alt="Three.js"/>
-
-**Tools & Databases**
-
-<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL"/>
-<img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" alt="Firebase"/>
-
-</div>
-
----
-
-## 🏆 Achievements & Leadership
+*Explore projects across environmental analytics, sustainability, machine learning, and interactive simulation.*
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 👥 Student Mentorship
+### ✈️ Engine Simulator
 
-**50+ students mentored**
+**Interactive engineering & 3D simulation**
 
-Supported students through interdisciplinary engineering projects, helping them refine ideas, plan implementation, and develop prototypes.
+An interactive propulsion engine learning and simulation platform developed for EDUAITHON during the IUCEE Annual Student Forum.
+
+- Academy learning modules
+- Particle journey visualization
+- Interactive 3D simulation lab
+- Adjustable engine parameters
+- Dynamic engineering metrics
+- Voice-command-based interaction
+
+<a href="https://propulsion-engine.vercel.app/">
+  <img src="https://img.shields.io/badge/▶_Launch_Live_Demo-0F766E?style=for-the-badge" alt="Launch live demo"/>
+</a>
+
+<a href="https://github.com/ganeshh0205/engine-simulator">
+  <img src="https://img.shields.io/badge/⌘_Source_Code-181717?style=for-the-badge&logo=github" alt="Source code"/>
+</a>
 
 </td>
 <td width="50%" valign="top">
 
-### 🛠️ Engineering Projects
+### 🌍 EHS Toolkit
 
-**15+ projects supported**
+**Environmental data processing & analytics**
 
-Contributed to student project coordination across engineering, technology, and sustainability domains.
+An environmental insights and compliance analytics platform developed as part of an international client project.
+
+- CSV, Excel, and PDF data workflows
+- Data cleaning and transformation
+- KPI computation and analytical outputs
+- Dashboard-ready data preparation
+- Automated reporting workflows
+- Source-based regulatory data retrieval
+
+<a href="https://github.com/ganeshh0205/EHSToolkit">
+  <img src="https://img.shields.io/badge/⌘_Source_Code-181717?style=for-the-badge&logo=github" alt="Source code"/>
+</a>
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 🎤 Technical Events
+### 🌱 CarbonWise
 
-**8+ workshops and events**
+**Carbon footprint analytics**
 
-Helped organize technical workshops and initiatives through the EWB-IUCEE MLRIT student chapter.
+A mobile platform designed to estimate personal carbon emissions and make lifestyle-related environmental impact easier to understand.
+
+- Rule-based CO₂ calculations
+- Standardized emission factors
+- Lifestyle emission trend analysis
+- OCR-based transaction extraction
+- Carbon impact insights
+
+<a href="https://github.com/ganeshh0205/carbonwise_app_v1">
+  <img src="https://img.shields.io/badge/⌘_Source_Code-181717?style=for-the-badge&logo=github" alt="Source code"/>
+</a>
 
 </td>
 <td width="50%" valign="top">
 
-### 🌐 Student Engagement
+### 🧠 Fraudulent Job Detection
 
-**500+ students engaged**
+**Machine learning & recruitment analytics**
 
-Supported technical activities, knowledge-sharing sessions, and student community initiatives.
+A machine learning project that analyzes recruitment listings to identify potentially fraudulent job postings.
+
+- **17,000+** job postings analyzed
+- Exploratory data analysis
+- Text and metadata feature engineering
+- Logistic Regression and Random Forest
+- **90% reported classification accuracy**
+- Django application with MySQL
+
+*Repository link to be added.*
 
 </td>
 </tr>
 </table>
 
-**Leadership roles**
-- Student Projects Coordinator — EWB-IUCEE MLRIT
-- Secretary — EWB-IUCEE MLRIT
-- Secretary — IEEE MLRIT
+<details>
+<summary><strong>🎥 Real-Time Anomalous Activity Detection System</strong></summary>
+
+A deep learning system for detecting anomalous activities in surveillance videos.
+
+**Highlights**
+- Processed the 12 GB UCF-Crime dataset.
+- Used DenseNet121 transfer learning with TensorFlow.
+- Worked with 14 anomalous activity categories.
+- Achieved a reported ROC-AUC score of 0.83.
+- Developed a Flask backend with MySQL for detection event storage.
+
+**Tech stack:** Python · TensorFlow · DenseNet121 · OpenCV · Flask · MySQL
+
+*Repository link to be added.*
+
+</details>
 
 ---
 
-## 📌 Current Focus
+## 🧭 Engineering Journey
+
+<details open>
+<summary><strong>01 · Data Analytics & Environmental Systems</strong></summary>
+
+Building data ingestion, transformation, KPI computation, and reporting workflows for environmental datasets.
+
+**Key areas:** Python · Pandas · NumPy · SQL · Data Pipelines · Analytics
+
+</details>
+
+<details>
+<summary><strong>02 · Machine Learning & Computer Vision</strong></summary>
+
+Exploring classification, feature engineering, transfer learning, and model evaluation using practical datasets.
+
+**Key areas:** Scikit-learn · TensorFlow · DenseNet121 · OpenCV
+
+</details>
+
+<details>
+<summary><strong>03 · Interactive Software & Simulation</strong></summary>
+
+Developing interactive learning experiences that combine visualization, simulation, and user-controlled parameters.
+
+**Key areas:** JavaScript · Three.js · Flutter · Capacitor.js
+
+</details>
+
+---
+
+## 🧰 Technology Map
+
+<div align="center">
+
+### Programming Languages
+
+<img src="https://skillicons.dev/icons?i=python,js,dart" alt="Python, JavaScript, and Dart"/>
+
+### Backend & Databases
+
+<img src="https://skillicons.dev/icons?i=django,flask,fastapi,mysql,firebase" alt="Django, Flask, FastAPI, MySQL, Firebase"/>
+
+### Tools & Frameworks
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,tensorflow,threejs,flutter" alt="Git, GitHub, VS Code, TensorFlow, Three.js, Flutter"/>
+
+**Analytics:** SQL · Pandas · NumPy · Excel · Power BI · Tableau
+
+</div>
+
+---
+
+## 📊 GitHub Analytics Dashboard
+
+<div align="center">
+
+### Overall Statistics
+
+<a href="https://github.com/ganeshh0205">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=ganeshh0205&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github" alt="GitHub profile statistics"/>
+</a>
+
+<a href="https://github.com/ganeshh0205">
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ganeshh0205&layout=donut&langs_count=8&hide_border=true&theme=tokyonight" alt="Most used languages"/>
+</a>
+
+### Contribution Streak
+
+<a href="https://github.com/ganeshh0205">
+  <img src="https://streak-stats.demolab.com?user=ganeshh0205&theme=tokyonight&hide_border=true" alt="GitHub contribution streak"/>
+</a>
+
+### Contribution Activity
+
+<a href="https://github.com/ganeshh0205">
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=ganeshh0205&theme=tokyo-night&hide_border=true&area=true" alt="GitHub contribution activity graph"/>
+</a>
+
+### GitHub Trophies
+
+<a href="https://github.com/ganeshh0205">
+  <img width="95%" src="https://github-profile-trophy.vercel.app/?username=ganeshh0205&theme=algolia&no-frame=true&no-bg=true&column=4&margin-w=10" alt="GitHub profile trophies"/>
+</a>
+
+</div>
+
+<details>
+<summary><strong>📌 Understanding these statistics</strong></summary>
+
+- **Profile statistics:** Selected repository and contribution metrics.
+- **Language distribution:** Languages detected in eligible repositories; not a measure of proficiency.
+- **Contribution streak:** Activity recognized by the streak service.
+- **Activity graph:** Recorded contribution activity over time.
+- **Trophies:** Achievements recognized by the trophy service.
+
+These third-party widgets can have caching delays, counting differences, or occasional outages.
+
+</details>
+
+---
+
+## 🏆 Impact & Leadership
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="50%">
+
+### 👥 50+
+
+Students mentored
+
+</td>
+<td align="center" width="50%">
+
+### 🛠️ 15+
+
+Projects supported
+
+</td>
+</tr>
+<tr>
+<td align="center" width="50%">
+
+### 🎤 8+
+
+Technical workshops and events
+
+</td>
+<td align="center" width="50%">
+
+### 🌐 500+
+
+Students engaged
+
+</td>
+</tr>
+</table>
+
+</div>
+
+### Leadership Roles
+
+**EWB-IUCEE MLRIT Student Chapter**
+- Student Projects Coordinator — May 2025 to May 2026
+- Secretary — April 2025 to May 2026
+
+**IEEE MLRIT**
+- Secretary — April 2025 to May 2026
+
+Contributed to student project coordination, engineering initiatives, technical workshops, and knowledge-sharing activities.
+
+---
+
+## 🎯 Current Focus
 
 - Strengthening Python, SQL, and problem-solving fundamentals.
-- Building applications that integrate APIs, databases, and user interfaces.
+- Building applications that connect APIs, databases, and user interfaces.
 - Improving software structure, testing, and maintainability.
-- Developing data pipelines that transform raw information into actionable insights.
+- Developing data workflows that turn raw information into useful analytical insights.
+- Understanding the systems I build rather than relying solely on automated tools.
 
 ---
 
@@ -255,14 +321,15 @@ Supported technical activities, knowledge-sharing sessions, and student communit
 <div align="center">
 
 <a href="https://github.com/ganeshh0205">
-  <img src="https://img.shields.io/badge/GitHub-Explore_My_Work-181717?style=for-the-badge&logo=github" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" alt="GitHub"/>
 </a>
 <a href="https://www.linkedin.com/in/ganesh-maheedhar/">
-  <img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
+</a>
+<a href="https://propulsion-engine.vercel.app/">
+  <img src="https://img.shields.io/badge/Explore_Engine_Simulator-0F766E?style=for-the-badge&logo=vercel" alt="Engine simulator"/>
 </a>
 
-*Interested in software development, data analytics, and building solutions to real-world problems.*
+*Curious by nature. Practical by design. Always building.*
 
 </div>
-
-<!-- ===================== END ===================== -->
