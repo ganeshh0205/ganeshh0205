@@ -229,11 +229,7 @@ Developing interactive learning experiences that combine visualization, simulati
   <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=ganeshh0205&theme=tokyo-night&hide_border=true&area=true" alt="GitHub contribution activity graph"/>
 </a>
 
-### GitHub Trophies
 
-<a href="https://github.com/ganeshh0205">
-  <img width="95%" src="https://github-profile-trophy.vercel.app/?username=ganeshh0205&theme=algolia&no-frame=true&no-bg=true&column=4&margin-w=10" alt="GitHub profile trophies"/>
-</a>
 
 </div>
 
