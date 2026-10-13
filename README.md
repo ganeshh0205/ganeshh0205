@@ -82,6 +82,9 @@ An environmental insights and compliance analytics platform developed as part of
 - Dashboard-ready data preparation
 - Automated reporting workflows
 - Source-based regulatory data retrieval
+<a href="https://ehs-toolkit.vercel.app/">
+  <img src="https://img.shields.io/badge/▶_Launch_Live_Demo-0F766E?style=for-the-badge" alt="Launch live demo"/>
+</a>
 
 <a href="https://github.com/ganeshh0205/EHSToolkit">
   <img src="https://img.shields.io/badge/⌘_Source_Code-181717?style=for-the-badge&logo=github" alt="Source code"/>
